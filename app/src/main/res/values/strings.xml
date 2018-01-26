@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PeacockSolar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="welcome_page_3">Here how you can use your idle rooftop space to power your appliances at home .Leave behind your electricity bill worries forever.Say YES to a clean,green and brighter future for your family.</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_page_1">HARNESSING THE SUN TO POWER YOUR APPLICATIONS</string>
+    <string name="welcome_page_2">Presenting the easiest way to go solar.Hassle-free solar installation, monitoring and maintainence.</string>
+
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_number">Mobile Number</string>
+    <string name="hint_address1">Address Line 1</string>
+    <string name="hint_address2">Address Line 2</string>
+    <string name="hint_pincode">Pincode</string>
+    <string name="hint_rooftop_dimensions">Rooftop Dimensions(Sq. Feets)</string>
+    <string name="hint_bill1">Bill 1(INR)</string>
+    <string name="hint_bill2">Bill 2(INR)</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_back">Back</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="err_msg_number">Enter the mobile number</string>
+    <string name="err_msg_">Enter the House/Flat No.</string>
+    <string name="err_msg_address2">Enter the nearest Landmark</string>
+    <string name="err_msg_rooftop_dimensions">Enter the Rooftop Dimensions</string>
+    <string name="err_msg_pincode">Enter the Pincode</string>
+    <string name="err_msg_bill1">Enter the Bill 1 Amount</string>
+    <string name="err_msg_bill2">Enter the Bill 2 Amount</string>
+</resources>
